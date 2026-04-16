@@ -1,0 +1,2 @@
+# No third-party packages needed — stdlib only.
+# This file exists so Railway / Render / Heroku detect this as a Python project.
